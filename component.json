@@ -1,0 +1,17 @@
+{
+  "name": "scroll-to",
+  "repo": "nathan7/scroll-to",
+  "description": "scroll to an element",
+  "version": "1.0.0",
+  "scripts": [
+    "index.js"
+  ],
+  "keywords": [
+    "dom",
+    "scroll"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "nathan7/scroll-position": "*"
+  }
+}

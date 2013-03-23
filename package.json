@@ -1,0 +1,19 @@
+{
+  "name": "scroll-to",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathan7/scroll-to.git"
+  },
+  "description": "scroll to an element",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [
+    "dom",
+    "scroll"
+  ],
+  "license": "MIT",
+  "author": "Nathan Zadoks",
+  "dependencies": {
+    "scroll-position": "~1.0.0"
+  }
+}
